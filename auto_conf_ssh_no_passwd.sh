@@ -40,6 +40,3 @@ ssh_copy_id_to_all(){
  
 # 执行将公钥私钥发送到各个机器函数
 ssh_copy_id_to_all $1
-————————————————
-版权声明：本文为CSDN博主「wtysuper6」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/a763470525/java/article/details/82888510
